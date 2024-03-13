@@ -1,9 +1,9 @@
 # hello...you
 ![](https://media.tenor.com/TvavbyWOz80AAAAM/joe-goldberg.gif)
 
-this is a repository for a stats 220 project, and here are
+this is a repository created for a **stats 220** project to demonstrate use of the *markdown* syntax we have covered in the course so far.
 
-*3 fun facts about me*
+here are some facts about me:
 
 1. i'm currently in my second year of university
 2. i specialise in **data science**, which covers courses in
